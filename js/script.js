@@ -1,4 +1,4 @@
-var femaleNames = ['Asia', 'Kasia', 'Ola', 'Jola']
+var femaleNames = ['Asia', 'Kasia', 'Ola', 'Jola'];
 
 console.log(femaleNames);
 
